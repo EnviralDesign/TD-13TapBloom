@@ -1,4 +1,4 @@
-# TD-13TapBloom
+# 13 Tap Bloom for TouchDesigner
 High quality Bloom component for TouchDesigner
 
 ## Example
