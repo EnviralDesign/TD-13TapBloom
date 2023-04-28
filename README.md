@@ -47,7 +47,7 @@ Raise this parameter to further adjust the distribution of the bloom. Similar to
 ## Why this bloom looks better than other implementations
 
 ### Source
-There are several reasons, first let me give credit to the resource that made this possible! There is an excellent presentation that was given some years ago called [Next Generation Post Processing in Call of Duty Advanced Warfare v18](https://www.scribd.com/presentation/363243286/Next-Generation-Post-Processing-in-Call-of-Duty-Advanced-Warfare-v18-pptx). They talk about the 3 big post processing effects that carry a lot of weight visuaslly - DOF, Bloom, and Motion blur. 
+There are several reasons, first let me give credit to the resource that made this possible! There is an excellent presentation that was given some years ago called [Next Generation Post Processing in Call of Duty Advanced Warfare v18](https://goo.gl/eomGso). They talk about the 3 big post processing effects that carry a lot of weight visuaslly - DOF, Bloom, and Motion blur. 
 
 This repo is an implementation of their Bloom workflow.
 
