@@ -1,6 +1,8 @@
 # 13 Tap Bloom for TouchDesigner
 Your search for high quality Bloom has ended :)
 
+If you want to support this project, and others like it please check out my patreon, and github sponsor pages on the right!
+
 ## Example
 ![image](https://user-images.githubusercontent.com/10091486/235195443-0f5634a3-a2dd-4c6d-bd28-473d0fb14825.png)
 ![image](https://user-images.githubusercontent.com/10091486/235196563-4cc1bf15-0413-4dc0-ae02-8ff604bcc4ef.png)
