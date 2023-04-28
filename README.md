@@ -1,5 +1,5 @@
 # 13 Tap Bloom for TouchDesigner
-Your search for high quality Bloom has ended :)
+The last bloom component you'll ever need :)
 
 If you want to support this project, and others like it please check out my patreon, and github sponsor pages on the right!
 
